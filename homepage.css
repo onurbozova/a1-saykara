@@ -14,7 +14,7 @@ body{
 	position: static;
 }
 
-#menu > img{
+img{
 	float: left;
 	margin-right: 20px;
 	height: 180;
