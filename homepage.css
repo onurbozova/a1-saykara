@@ -1,0 +1,44 @@
+body{
+	background-color: lightblue;
+	margin: 0px;
+}
+
+#menu{
+	height: 180px;
+	margin: auto;
+	padding: 10px;
+	background-color: #660000;
+	border-style: solid;
+	border-width: 5px;
+	border-color: #000;
+	position: static;
+}
+
+#menulogo{
+	margin-right: 20px;
+	float: left;
+}
+
+#menulogo > img{	
+	height: 180;
+	width: 180;
+}
+
+#menubutton{
+	margin-right: 20px;
+	margin-top: 50px;
+	background-color: #888;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #000;
+	font-family:  Arial, Helvetica, sans-serif;
+	font-size: 64px;
+	padding: 10px;
+	color: #660000;
+	text-decoration: none;
+	float: left;
+}
+
+#about_us_header{
+	background-color:#222;
+}
