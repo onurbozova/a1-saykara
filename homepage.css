@@ -4,6 +4,7 @@ body{
 }
 
 #menu{
+	position: relative;
 	height: 180px;
 	margin: auto;
 	padding: 10px;
@@ -14,14 +15,18 @@ body{
 	position: static;
 }
 
-#logo{
-	display: inline-block;
-	float: left;
+
+.logo {
 	margin-right: 20px;
-	height: 180;
-	width: 180;
+    width: 180px;
+    height: 180px;
+    float: left;
 }
 
+.logo img {
+    width: 100%;
+    height: auto;
+}
 
 .menubutton{
 	margin-right: 20px;
