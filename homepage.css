@@ -14,7 +14,7 @@ body{
 	position: static;
 }
 
-img{
+#logo{
 	float: left;
 	margin-right: 20px;
 	height: 180;
