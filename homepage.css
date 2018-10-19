@@ -92,4 +92,26 @@ td{
 
 tr:nth-child(even){
 	background-color: #f2f2f2;
-} 
+}
+
+.jerseyphoto{
+	vertical-align: top;
+    display: inline-block;
+    text-align: center;
+}
+
+.jerseyphoto img {
+    width: 500px;
+    height: 500px;
+}
+
+.phototext {
+    display: block;
+    font-size: 24px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+.jerseys{
+	font-size: 24px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
