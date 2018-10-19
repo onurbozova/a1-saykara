@@ -14,12 +14,9 @@ body{
 	position: static;
 }
 
-#menulogo{
-	margin-right: 20px;
+#menu > img{
 	float: left;
-}
-
-#menulogo > img{	
+	margin-right: 20px;
 	height: 180;
 	width: 180;
 }
