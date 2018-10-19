@@ -14,15 +14,13 @@ body{
 	position: static;
 }
 
-#menulogo{
+#menu > img{
 	float: left;
 	margin-right: 20px;
-	}
-
-div.menulogo > img{
 	height: 180;
 	width: 180;
 }
+
 
 .menubutton{
 	margin-right: 20px;
